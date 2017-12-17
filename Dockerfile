@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:stretch-slim
 
 MAINTAINER Arne Schubert <atd.schubert@gmail.com>
 
